@@ -14,6 +14,8 @@ import android.widget.Toast;
 import com.example.t03.configuracion.SQLiteConexion;
 import com.example.t03.configuracion.Transacciones;
 
+//prueba
+
     public class editarActivity extends AppCompatActivity {
     SQLiteConexion conexion;
     EditText id, nombres, apellidos, edad, Correo, direccion;
